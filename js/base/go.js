@@ -27,5 +27,5 @@ define([], function() {
       'present': 'van (they go)'
       'future': 'irán (they will go'
     }
-  }
+  };
 });
